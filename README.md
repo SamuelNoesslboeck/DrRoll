@@ -18,7 +18,7 @@ The final CAD design, created in Solid Edge, is available in the root of the rep
 
 <p align="center">
   <img src="documentation/captures/1_cad_progress_2024_10_12.PNG" width="80%"/>
-  <img src="export/a_drroll.jpg" width="80%"/>
+  <img src="export/a_drroll.png" width="80%"/>
 </p>
 
 more images of the real life build can be found in the project log and a lot of concept art is available in the [project log](documentation/project_log.md)! 

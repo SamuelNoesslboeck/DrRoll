@@ -45,4 +45,19 @@ With Mk2.1.0 I was able to remove all of the issues listed in Mk2.1.0, hopefully
 
 ![Mk2.1.0 build](pictures/7_roll_fix.jpg)
 
-## Durability problems in winter
+## Durability problems in winter (Mk2.2.0)
+
+Now two months into use, the DrRoll is showing the first signs of longer-term usage. With the colder temperatures and higher moisture conditions, the 3D-printed parts seem to deform in a way, causing the glue between the cardboard to lose it's strength. This inevitably led to the bottom part, the one with less area where glue is spread on, broke free from the cardboard roll. 
+
+<p align="middle">
+    <img src="pictures/8_current_roll.jpg" width="32%"/>
+    <img src="pictures/9_broken_roll.jpg" width="32%"/>
+    <img src="pictures/10_broken_end.jpg" width="32%"/>
+</p>
+
+Additionally, the old cap did not only have little connection-area to the cardboard roll, it also had little space for the screws to be put though. So for the next version, I took the upper connection part as a reference and increased the thread length to properly fit the screws in. The new roll bottom looks like the following:
+
+<p align="middle">
+    <img src="captures/2_new_roll_end_2024_12_01.PNG" width="35%">
+    <img src="captures/4_drawing_progress_24_12_01.PNG" width="45%">
+</p>
