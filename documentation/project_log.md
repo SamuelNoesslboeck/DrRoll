@@ -22,7 +22,7 @@ For this build, I used a new cardboard roll and tried to design my own caps with
 
 The new Mk2 build should have a fixed bottom end with multiple screws and possible mounting options. However the top part should have something like a little hook on the side to mount the belt too, while also functioning as a seal.
 
-## First build (Mk2.0.0)
+## First build of Mk2 (Mk2.0.0)
 
 ![Mk2 build-up](pictures/3_buildup_new.jpg)
 
@@ -44,3 +44,5 @@ The issues with the top part caused wrapping, which made using the roll basicall
 With Mk2.1.0 I was able to remove all of the issues listed in Mk2.1.0, hopefully no new ones will emerge for now. Here a very low quality picture of the result (it was a quick picture for my best friend please excuse haha):
 
 ![Mk2.1.0 build](pictures/7_roll_fix.jpg)
+
+## Durability problems in winter
