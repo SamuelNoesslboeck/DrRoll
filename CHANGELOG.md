@@ -11,3 +11,7 @@
 
 - Reworked the bottom part of the roll for a better connection in order to withstand environmental conditions better
 - Improved technical drawing to include adhesive dimensions
+
+## Mk2.2.1/2025/03/09
+
+- Added new logos and designs

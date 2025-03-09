@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="design/logo/drroll_logo_titled.drawio.svg" width="60%"/>
+  <img src="design/logos/drroll_logo_text.png" width="60%"/>
 </p>
 
 ---
-
-> Creation date: 01/10/2024
 
 A mobile storage for technical drawings!
 
